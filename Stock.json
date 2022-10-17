@@ -1,0 +1,18 @@
+[
+  {
+    "stockName": "Tata",
+    "numOfShare": "50",
+    "sharePrice": "700"
+  },
+  {
+    "stockName": "Maruti",
+    "numOfShare": "10",
+    "sharePrice": "5000"
+  },
+  {
+    "stockName": "Reliance",
+    "numOfShare": "20",
+    "sharePrice": "1500"
+  }
+
+]
